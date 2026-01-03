@@ -1,9 +1,8 @@
 # Hola 👋, soy Enzo Sorrenti 🇦🇷  
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EnzoSorrenti.profile)
-[![GitHub followers](https://img.shields.io/github/followers/EnzoSorrenti.svg?style=social&label=Follow)](https://github.com/EnzoSorrenti?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/EnzoSDev?style=social)](https://github.com/EnzoSDev)
 
 <!--
-**EnzoSorrenti/EnzoSorrenti** es un repositorio ✨ especial ✨ porque su README.md
+**EnzoSDev/EnzoSDev** es un repositorio ✨ especial ✨ porque su README.md
 aparece en el perfil de GitHub.
 -->
 
@@ -13,13 +12,14 @@ aparece en el perfil de GitHub.
 🌎 Vivo en **Mar del Plata, Argentina**.  
 🚀 Me interesa especialmente el **desarrollo web**, tanto frontend como backend, y la creación de aplicaciones reales aplicando buenas prácticas.
 
-Me considero una persona **responsable, perseverante y adaptable**, con muchas ganas de seguir creciendo como profesional y como persona. Busco mejorar constantemente mis habilidades técnicas, de comunicación y trabajo en equipo.
+Me considero una persona **responsable, perseverante y adaptable**, con muchas ganas de seguir creciendo como profesional y como persona.
 
-- 🌱 Actualmente aprendiendo **Ciberseguridad (Bash y Linux)**  
-- 🧠 Buenas bases en **POO, MVC y principios SOLID**  
+- 🌱 Actualmente aprendiendo **Ciberseguridad (Bash y Linux)**
+- 🧠 Buenas bases en **POO, MVC y principios SOLID**
 - 🤝 Experiencia trabajando en equipo usando **Git y GitHub**
 - 📘 Nivel de inglés **B1** (en mejora continua)
 
+---
 
 ## 🛠️ Tecnologías
 
@@ -46,28 +46,15 @@ Me considero una persona **responsable, perseverante y adaptable**, con muchas g
 
 ---
 
-## 🧠 Experiencia y formación destacada
-
-- 💼 **Desarrollador Web Frontend**  
-  *TS Servicios Integrales (Bolivia – remoto)*  
-  Mantenimiento y mejoras de interfaces web, refactoring acompañado por un desarrollador senior.
-
-- 💻 **Desarrollador Full Stack – App de Finanzas (remoto)**  
-  Desarrollo completo de una aplicación web desde cero, con autenticación JWT, frontend y backend, trabajando en equipo con Git y GitHub.
-
-- 🎓 **Ayudante de Matemática Discreta – UNMDP**  
-  Fortalecí habilidades de comunicación, paciencia y claridad al explicar conceptos.
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoSDev" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EnzoSDev&show_icons=true&hide_border=true&cache_seconds=86400" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoSDev&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoSDev&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoSDev&layout=compact&hide_border=true&cache_seconds=86400" />
+</p>
 
 ---
 
