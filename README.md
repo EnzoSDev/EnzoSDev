@@ -6,7 +6,7 @@
 **EnzoSorrenti/EnzoSorrenti** es un repositorio ✨ especial ✨ porque su README.md
 aparece en el perfil de GitHub.
 -->
-
+<br>
 <img align="right" width="320px" alt="Coding PC" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 💻 Sobre mí
