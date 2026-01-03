@@ -63,11 +63,11 @@ Me considero una persona **responsable, perseverante y adaptable**, con muchas g
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoSorrenti" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoSDev" alt="GitHub Streak" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoSorrenti&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoSorrenti&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoSDev&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoSDev&layout=compact)
 
 ---
 
