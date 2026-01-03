@@ -7,8 +7,6 @@
 aparece en el perfil de GitHub.
 -->
 
-<img align="center" width="320px" alt="Coding PC" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## 💻 Sobre mí
 
 🎓 Soy **estudiante de Ingeniería Informática** en la **Universidad Nacional de Mar del Plata (UNMDP)**.  
@@ -29,7 +27,7 @@ Me considero una persona **responsable, perseverante y adaptable**, con muchas g
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
 </p>
